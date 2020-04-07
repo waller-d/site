@@ -1,2 +1,2 @@
-# website-waller-d
+# waller-d website
 My personal website
